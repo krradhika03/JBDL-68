@@ -1,5 +1,9 @@
 # JBDL-68
 
+Postman collection: https://api.postman.com/collections/4856615-58dbf714-a1c5-4959-acc3-08304689afc2?access_key=PMAT-01HYA903N72C9NEREDZS4TS296
+
+If you are able to import this collection in postman, let me know, I will help you
+
 Docker slides : https://docs.google.com/presentation/d/1w4UCwwvQJw9vQe1ssCUPP55TblGOl3WhWrS1Q30kODw/edit#
 
 Redis labs / Redis on cloud : https://app.redislabs.com/
